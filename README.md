@@ -1,4 +1,4 @@
 discounter-customized
 =====================
 
-Other's project I adpated to resolve an practical exercise
+Other's project that I've adpated in order to resolve an practical exercise
